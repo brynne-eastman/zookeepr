@@ -117,6 +117,20 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "larry",
+      "species": "lemure=",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "12"
+    },
+    {
+      "name": "larry",
+      "species": "lemure",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "13"
     }
   ]
 }
