@@ -20,5 +20,9 @@
   "homepage": "https://github.com/brynne-eastman/zookeepr#readme",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
 }
